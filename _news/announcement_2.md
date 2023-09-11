@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2023-01-20 07:59:00-0400
+date: 2023-05-05 07:59:00-0400
 inline: true
 ---
 
-Transfer Learning with Deep Tabular Models accepted to ICLR 2021
+Our paper on data imbalance and bias in face recognition accepted to AIES-23 :partying_face:	
