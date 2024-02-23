@@ -24,4 +24,4 @@ Prior to joining Amazon I did my PhD at the University of Maryland, where I was 
 During my PhD I did two summer internships at Amazon, in 2021 I developed NLP solution to monitor integrity and transparency of third-party Alexa Skills at Alexa Monitoring
 team and in 2022 I worked on improving Alexa Voice Search on FireTV at Alexa Entertainment team.
 
-I am always looking for new collaborations, 
+I am always looking for new collaborations, feel free to text me on LinkedIn or send me an email! 
